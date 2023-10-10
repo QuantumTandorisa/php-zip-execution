@@ -1,4 +1,4 @@
-README - Código PHP para Descomprimir y Ejecutar Archivos ZIP
+Código PHP para Descomprimir y Ejecutar Archivos ZIP
 Este código PHP está diseñado para manejar la carga y descompresión de archivos ZIP, así como la ejecución de un archivo PHP contenido en el archivo ZIP. A continuación, se proporciona una descripción detallada de cómo funciona el código y su uso:
 
 Descripción del Código
